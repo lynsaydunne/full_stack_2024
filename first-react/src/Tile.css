@@ -1,0 +1,10 @@
+.tile {
+    display: inline-block;
+    width: 12.5rem;
+    margin: 1rem;
+  }
+  
+  .tile img {
+    width: 100%;
+  }
+  
